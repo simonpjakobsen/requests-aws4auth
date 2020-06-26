@@ -1,5 +1,6 @@
 [![image](https://img.shields.io/pypi/v/requests-aws4auth.svg)](https://pypi.python.org/pypi/requests-aws4auth)
 [![image](https://img.shields.io/pypi/l/requests-aws4auth.svg)](https://pypi.python.org/pypi/requests-aws4auth)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsimonpjakobsen%2Frequests-aws4auth.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsimonpjakobsen%2Frequests-aws4auth?ref=badge_shield)
 
 Amazon Web Services version 4 authentication for the Python [Requests](https://github.com/kennethreitz/requests) library.
 
@@ -234,3 +235,7 @@ python3 -m twine upload --repository testpypi dist/*
 python3 -m twine upload --repository pypi dist/*
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsimonpjakobsen%2Frequests-aws4auth.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsimonpjakobsen%2Frequests-aws4auth?ref=badge_large)
